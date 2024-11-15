@@ -18,7 +18,7 @@ h4,
 h5,
 h6,
 p {
-  margin: 0 auto;
+  margin: 0;
 }
 img {
   display: block;
@@ -436,7 +436,7 @@ a {
 
   justify-content: flex-start;
   align-items: center;
-  text-align: left;
+
   padding: 100px 0;
 }
 .footer-logo-accent {
@@ -469,7 +469,6 @@ a {
 .social-paragraf {
   color: #fff;
   margin-bottom: 16px;
-  margin-left: 0;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
